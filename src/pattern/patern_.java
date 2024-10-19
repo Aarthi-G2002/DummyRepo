@@ -41,7 +41,8 @@ public class patern_ {
 			
 			System.out.println();
 		}
-
+		
+		System.out.println("Succesfuly done!!");
 	}
 
 }
