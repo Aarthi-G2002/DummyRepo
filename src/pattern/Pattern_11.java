@@ -35,31 +35,6 @@ public class Pattern_11 {
   			}
 			
 			System.out.println();
-		}
-	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		}	
 	}
 }
